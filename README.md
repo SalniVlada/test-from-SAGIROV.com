@@ -9,3 +9,4 @@
 - для смартфонов — 320px
 
 ## Ссылка на проект
+[Тут](https://salnivlada.github.io/test-from-SAGIROV.com/)
