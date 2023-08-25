@@ -1,12 +1,12 @@
 @font-face {
   font-family: "MuseoSansCyrl";
   font-weight: 100;
-  src: url(/fonts/museosanscyrl-100.woff2);
+  src: url(../fonts/museosanscyrl-100.woff2);
 }
 
 @font-face {
   font-family: "MuseoSansCyrl";
-  src: url(/fonts/museosanscyrl-300.woff2);
+  src: url(../fonts/museosanscyrl-300.woff2);
   font-weight: 300;
   font-style: normal;
 }
@@ -14,7 +14,7 @@
 @font-face {
   font-family: "MuseoSansCyrl";
   font-weight: 700;
-  src: url(/fonts/museosanscyrl-700.woff2);
+  src: url(../fonts/museosanscyrl-700.woff2);
 }
 
 :root {
